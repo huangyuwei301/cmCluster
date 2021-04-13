@@ -1,5 +1,5 @@
 "### this is the introduction of the usage of cmCluster code" 
-### here we strat cmCluster at the count matrix from cellranger output files
+"### here we strat cmCluster at the count matrix from cellranger output files"
 
 #cd the file folder where all of these scripts are
 $cd script_file_folder
